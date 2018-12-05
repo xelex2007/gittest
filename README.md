@@ -7,4 +7,4 @@ bugfix
 
 
 
-new_feature
+new_feature_docs
